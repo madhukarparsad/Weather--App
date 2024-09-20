@@ -1,0 +1,13 @@
+{
+  "name": "weather__app",
+  "version": "1.0.0",
+  "main": "WEATHER.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step necessary for static files'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
